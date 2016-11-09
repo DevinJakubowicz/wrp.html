@@ -13,6 +13,12 @@
 	float: right;
 }
 
+.image {
+	background-image: 
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
 body {
 	background-color: #33B2FF;
 }
