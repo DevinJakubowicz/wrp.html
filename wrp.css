@@ -16,6 +16,7 @@
 img {
 	width: 500px;
 	height: 350px;
+	margin: 0px 0px 0px 80px;
 }
 
 body {
@@ -68,7 +69,7 @@ p {
 	font-family: monaco, Consolas, "Lucida Console", monospace;
 	display:block;
 	color:#D9F6FE;
-	margin: 30px 120px 0px 0px;
+	margin: 30px 120px 20px 0px;
 }
 
 
