@@ -64,7 +64,7 @@ li{
 }
 
 p {
-	width: 500px;
+	width: 400px;
 	clear: left;
 	font-family: monaco, Consolas, "Lucida Console", monospace;
 	display:block;
@@ -72,6 +72,21 @@ p {
 	margin: 30px 120px 20px 0px;
 }
 
+@media all and (max-width: 480px){
+	h1{
+		text-align: center;
+	}
+	
+	img {
+		display: none;
+	}
+
+	.clearright {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
 
 
 
