@@ -1,0 +1,77 @@
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.nav{
+	width: 100%;
+	display: inline-block;
+}
+
+.clearright {
+	clear: right;
+	float: right;
+}
+
+body {
+	background-color: #33B2FF;
+}
+
+header{
+	margin: 5px 10px;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: right;
+	color:#146CFC;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	margin: 50px 125px 15px 15px;
+
+}
+
+h3 {
+	float:right;
+	display:inline;
+	color:#32FBFB;
+	margin: 0px 75px;
+	padding: 20px;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+
+ul {
+	width: 100%;
+	display:inline;
+	font-size: 24px;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	margin: 15px 25px;
+	color:white;
+	list-style-type: none;
+}
+
+li{
+	display: inline;
+	float: right;
+	margin: 0px 75px 0px 50px;
+	font-size: 25px;
+	padding: 5px;
+}
+
+p {
+	width: 500px;
+	clear: left;
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+	display:block;
+	color:#D9F6FE;
+	margin: 30px 120px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
