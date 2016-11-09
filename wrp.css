@@ -69,12 +69,24 @@ p {
 	font-family: monaco, Consolas, "Lucida Console", monospace;
 	display:block;
 	color:#D9F6FE;
-	margin: 30px 120px 20px 0px;
+	margin: 30px 125px 20px 0px;
 }
 
 @media all and (max-width: 480px){
-	h1{
+
+	li {
+		float: none;
+		display: block;
+	}
+
+
+	h1 {
 		text-align: center;
+	}
+
+	h3 {
+		float: none;
+		display: block;
 	}
 	
 	img {
