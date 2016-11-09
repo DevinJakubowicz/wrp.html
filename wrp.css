@@ -32,7 +32,7 @@ h1 {
 	text-align: right;
 	color:#146CFC;
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-	margin: 50px 125px 15px 15px;
+	margin: 20px 125px 15px 15px;
 
 }
 
@@ -78,7 +78,6 @@ p {
 		float: none;
 		display: block;
 	}
-
 
 	h1 {
 		text-align: center;
